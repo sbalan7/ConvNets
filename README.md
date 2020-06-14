@@ -10,8 +10,11 @@ In this directory, there is an interactive python notebook which walks through t
 Also given in the module is reusable model from the TensorFlow hub, which produces some rather different images with way more emphasis on the style's colors, as shown below.
 ### TensorFlow Hub NST Algorithm 
 Old Version
+
 <img src="https://raw.githubusercontent.com/sbalan7/ConvNets/master/Neural%20Style%20Transfer/Images/outputs/rotunda-water-color(1).png" width="200" height="200" />
+
 New Version
+
 <img src="https://raw.githubusercontent.com/sbalan7/ConvNets/master/Neural%20Style%20Transfer/Images/outputs/rotunda-water-color(2).png" width="200" height="200" />
 
 The directory also has some style images and some other images to test the program with, though you are free to try your own.
