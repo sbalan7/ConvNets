@@ -31,4 +31,4 @@ The directory also has some style images and some other images to test the progr
 ## Visualizing Feature Maps
 In this we again take the image of the BITS Pilani Rotunda and pass it through the VGG19 architechture and plot out the feature maps which it generates while running the image through the model. The feature map from the last convolutional layer in the first block is here.
 
-<img src="https://raw.githubusercontent.com/sbalan7/ConvNets/master/Visualizing%20Feature%20Maps/fmap.png" data-canonical-src="https://raw.githubusercontent.com/sbalan7/ConvNets/master/Visualizing%20Feature%20Maps/fmap.png" width="576" height="342" />
+<img src="https://raw.githubusercontent.com/sbalan7/ConvNets/master/Visualizing%20Feature%20Maps/fmap(0).png" width="576" height="342" />
