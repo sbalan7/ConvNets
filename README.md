@@ -1,6 +1,6 @@
 
 # Convolutional Neural Networks
- ###### A set of fun programs with applications of Convolutional Neural Networks
+ ##### A set of fun programs with applications of Convolutional Neural Networks
 
 ## Image Classification
 One of the most basic uses of convolutional neural networks is image classification, where the image is fed into the network along with some categories, and the network predicts which class the image belongs to. In this particular implementation, we use a [satellite imagery dataset](https://www.kaggle.com/rhammell/ships-in-satellite-imagery) of ships from Kaggle. The dataset is well made, with multiple images of not just ships, but also similar pictures like bridges, pictures of obscured boats, the open sea and terrain.
@@ -32,3 +32,4 @@ The directory also has some style images and some other images to test the progr
 In this we again take the image of the BITS Pilani Rotunda and pass it through the VGG19 architechture and plot out the feature maps which it generates while running the image through the model. The feature map from the last convolutional layer in the first block is here.
 
 <img src="https://raw.githubusercontent.com/sbalan7/ConvNets/master/Visualizing%20Feature%20Maps/fmap(0).png" width="576" height="342" />
+
